@@ -1,4 +1,7 @@
 # Basic Calculator Program
+# Henok Girma
+# This program performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+# It prompts the user to input two numbers and an operation, then displays the result.
 
 # Ask the user to input two numbers
 num1 = float(input("Enter the first number: "))
